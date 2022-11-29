@@ -1,7 +1,3 @@
-# Meeting-Unknown.github.io
+# AME 520 - Understanding Activity - Meeting Unknown 
 
-- Item 1
-- Item 2
-- Item 3
-  - Sub Item 1
-  - Sub Item 2
+When making this project it required me to use stuff that was already made like my character's sprites and my recent MOCAP video. On this folder you'll see that I have uploaded both the video and the file to show you how I made it. 
