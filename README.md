@@ -11,4 +11,4 @@
 - It was going to play like a dream the character is having after getting squashed.
 
 ## What Actually Happened
-- It became a simple random video about my character looking around and at the 3D characters while moving.
+- It became a simple random video about my character looking around and exploring inside the TV.
