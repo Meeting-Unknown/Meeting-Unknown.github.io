@@ -10,5 +10,8 @@
 - It was suppose to be a video showing the 2D character getting squashed at the end along with him trying to out run the five of them.
 - It was going to play like a dream the character is having after getting squashed.
 
-## What Actually Happened
+## Demo Video
 - It became a simple random video about my character looking around and exploring inside the TV.
+
+https://user-images.githubusercontent.com/69981799/205826283-3508cc8e-d0cd-47d8-9938-3641b9b30dae.mp4
+
